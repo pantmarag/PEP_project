@@ -1,8 +1,11 @@
- # Working process
+ # Prior Working process
 
 The initial [entry](https://www.rcsb.org/structure/2ZFF) that was given to us through the [Protein Data Base (PDB)](https://www.rcsb.org/) regards the human protein structure of Thrombin co-crystalized with the ligand [53U](https://www.rcsb.org/ligand/53U). The coordinations that were downloaded from the database gave an altered view of the complex, thus the ligand was not found inside the binding site in our environment.
 
 Based on the protein structure and the resolution, it was decided to proceed with the Thrombin entry [5AFZ](https://www.rcsb.org/structure/5AFZ) that provided accurate ligand coordinations and literature, contrary to the initial Thrombin entry. The two protein structures were aligned with online [tool](https://www.rcsb.org/alignment) for validation.
+
+For this entry we then proceeded to capture the interactions of the ligand ([UET](https://pubchem.ncbi.nlm.nih.gov/compound/58834156)) within the binding pocket. These crucial interactions are analyzed in the docking README.md part. The tool that we used is [PLIP](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index).
+
 # Discussion
 
 
