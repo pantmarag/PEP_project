@@ -16,3 +16,6 @@ For this project we used:
 
 
 ## Thrombin: Target discription 
+
+### Protein information
+Thrombin is a multifunctional serine protease (peptidase S1 family) that is known to be the central protease of the human blood coagulation cascade and is located extracellularly. (F2 - Prothrombin - Homo sapiens (Human) | UniProtKB | UniProt, z.d.) In this coagulation cascade, Prothrombin (coagulation factor II) is proteolytically cleaved to form thrombin. Next, soluble fibrinogen is formed into insoluble strands of fibrin by serine acting thrombin to form fibrin cloths in injured cells. Similarly, thrombin has a positive regulatory effects on coagulation factors and induces procoagulant, inflammatory, cellular proliferation and anticoagulant mechanism in the body. (Al-Amer, 2022) 
