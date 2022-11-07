@@ -17,4 +17,4 @@ Nonetheless, we see the top scored screened compounds based on the pIC50 that we
 
 # Disclaimer
 
-In the data file, you can find the list of the compounds which inhibits the thrombin. They are ranked best to worst IC50 value. The file name is Thrombin_compounds.csv.
+In the data file, you can find the list of the compounds which inhibits Thrombin. They are ranked from best to worst IC50 value. The file name is Thrombin_compounds.csv.
