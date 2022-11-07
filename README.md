@@ -30,9 +30,11 @@ Currently three classes of “Direct thrombin inhibitors” (DTIs) are available
 As thrombin shows great levels of allosteric regulation, there is a growing interest in developing allosteric inhibitors for thrombin as it can function as a regulator instead of merely an inhibitor. Although advancements have been made with candidates such as sulfated pentagalloylglucopyranoside (SPGG)(Al-Horani & Desai, 2014), an allosteric inhibitor has yet to entered the clinic. 
 
 ### Active site
-Thrombin’s active site is composed of a catalytic triad (Ser195, His57, and Asp102) of three pockets, each with their own characteristics and roles. As illustrated in diagram XXX, the three pockets are S1, S2 and S3/4. The S1 pocket is a basic-recognition site with Asp189 as the most important residue. The S2 pocket is a proximal hydrophobic pocket with Tyr60A and Trp60D as the main residues. The S3/4 pocket is lipophilic distal pocket mainly made of resides Leu 99, Ile174, and Trp215. (He et al., 2015)
+Thrombin’s active site is composed of a catalytic triad (Ser195, His57, and Asp102) of three pockets, each with their own characteristics and roles. As illustrated in diagram below, the three pockets are S1, S2 and S3/4. The S1 pocket is a basic-recognition site with Asp189 as the most important residue. The S2 pocket is a proximal hydrophobic pocket with Tyr60A and Trp60D as the main residues. The S3/4 pocket is lipophilic distal pocket mainly made of resides Leu 99, Ile174, and Trp215. (He et al., 2015)
 These pockets are considered in the design of many strong and selective thrombin inhibitors including our designed thrombin ligands (PEP1/2). Our design emphasised binding with the S1 recognitions site as the entry we used (5AFZ) has a ligand (UET) in its crystallised structure which binds in the S1 pocket. We used the UET ligand as a base to reinvent a similar structured but improved ligand. 
 
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/117588718/200306380-7b14d10a-d0aa-4e4f-b599-16398e79c73c.png"> 
+Figure: showing a three-dimensional representation of the thrombin active with a binded inhibitor and annotated binding pockets. (Rühmann et al., 2015)
 
 ### Bibliography 
 - Al-Amer, O. M. (2022). The role of thrombin in haemostasis. Blood Coagulation & Fibrinolysis, 33(3), 145–148. https://doi.org/10.1097/MBC.0000000000001130
