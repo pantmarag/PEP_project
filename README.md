@@ -15,4 +15,4 @@ For this project we used:
 - The re-written code is now embedded within the Jupyter Notebook . Especially we used the Noteable environment.
 
 
-# Thrombin: Target discription 
+## Thrombin: Target discription 
