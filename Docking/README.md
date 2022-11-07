@@ -25,3 +25,13 @@ Later, we tried to enhance the given structures so as to gain more interaction a
 
 We gave a name to this compound, PEP1:
 
+![](PEP1.png)
+
+Later, we wanted to investigate if an halogen bond can be created between our compound and ASP 189. We docked first a compound for our list with IC50 value better that the control ligand, anh which also has a benzene ring with an halogen, in this case Chloride. After the docking, the two compounds were perfectly aligned once again. So we adjust the PEP1 compound and except from inserting an amino imon group, we implement a chloride.
+The docking poses in this compound PEP2, were not as we predicted. The crucial interaction with the ASP 189, was gained this time by the carboxilic acid, and a new halogen bond was created with a different residue. Further investigations need to be made to assess both docking poses. They both seem that can actually increase the affinity and probably the selectivity by gaining more crucial interactions.
+
+PEP2
+
+ # Discussion 
+ 
+ 
