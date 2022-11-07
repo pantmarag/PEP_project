@@ -1,4 +1,4 @@
- # Prior Working process
+ # Prior Working Process
 
 The initial [entry](https://www.rcsb.org/structure/2ZFF) that was given to us through the [Protein Data Base (PDB)](https://www.rcsb.org/) regards the human protein structure of Thrombin co-crystalized with the ligand [53U](https://www.rcsb.org/ligand/53U). The coordinations that were downloaded from the database gave an altered view of the complex, thus the ligand was not found inside the binding site in our environment.
 
