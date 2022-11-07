@@ -32,6 +32,9 @@ The docking poses in this compound PEP2, were not as we predicted. The crucial i
 
 PEP2
 
+![](PEP2.png)
+
+
  # Discussion 
  
- 
+We were able to generate two new compounds which they both gain all the crucial interactions with the binding site of thrombin. However, they conformed differently compared with the control compound. PEP1 conformed as control but PEP2 conformed in a different way. They are both creating crucial interaction with key binding site residues. Better investigation need to be made to validate the docking poses, Molecular Dynamics and Free Energy Perturbation. Docking scores were not consider as crucial indications. We relied only on conformation adn interactions. To be able to rely on docking scores, we have to use different docking score functions so as not to be biased. 
