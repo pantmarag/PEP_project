@@ -37,6 +37,11 @@ PEP2
 
 Both PEP1 and PEP2 compounds adhere the well known Lipinski Rule of Five. For the code, see ../PEP_project/Machine_Learning.
 
+In the above tables, the predicted pIC50 values, docking scores and experimental values can be seen. 
+
+
+
+
  # Discussion 
  
-We were able to generate two new compounds which they both gain all the crucial interactions with the binding site of thrombin. However, they conformed differently compared with the control compound. PEP1 conformed as control but PEP2 conformed in a different way. They are both creating crucial interaction with key binding site residues. Better investigation need to be made to validate the docking poses, Molecular Dynamics and Free Energy Perturbation. Docking scores were not consider as crucial indications. We relied only on conformation adn interactions. To be able to rely on docking scores, we have to use different docking score functions so as not to be biased. 
+We were able to generate two new compounds which they both gain all the crucial interactions with the binding site of thrombin. However, they conformed differently compared with the control compound. PEP1 conformed as control but PEP2 conformed in a different way. They are both creating crucial interaction with key binding site residues. Further investigation need to be done to validate the docking poses, Molecular Dynamics and Free Energy Perturbation. Docking scores were not consider as crucial indications. We relied only on conformation and interactions. To be able to rely on docking scores, we have to use different docking score functions so as not to be biased. 
