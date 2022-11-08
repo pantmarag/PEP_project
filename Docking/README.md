@@ -39,7 +39,9 @@ Both PEP1 and PEP2 compounds adhere the well known Lipinski Rule of Five. For th
 
 In the above tables, the predicted pIC50 values, docking scores and experimental values can be seen. 
 
+![](Table1.png)
 
+![](Table2.png)
 
 
  # Discussion 
