@@ -13,6 +13,7 @@ For this project we used:
 - We also used scripts for the CBR-teaching, an environment that was made by Willem Jespers for the aim of this course. Programming language `python`.
 - For the Interaction Fingerprints we use the [Open Drug Discovery Toolkit](https://github.com/oddt/oddt),a  modular and comprehensive toolkit for use in cheminformatics, molecular modeling etc. ODDT is written in `python`, and make extensive use of Numpy/Scipy
 - The re-written code is now embedded within the Jupyter Notebook . Especially we used the Noteable environment.
+- For the generation of smiles we used the [cheminfo](https://www.cheminfo.org/flavor/malaria/Utilities/SMILES_generator___checker/index.html) interface.
 
 
 ## Thrombin: Target discription 
