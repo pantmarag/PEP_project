@@ -1,1 +1,10 @@
+# Interaction Fingerprints
+
 In this project we wanted to introduce another one Drud Discovery Stategy called Interaction Fingerprints. In the protein-ligand interaction fingerprint (IFP)process, the details of protein-ligand interaction are encoding into a binary string using a set of predefined interaction types (van der Waals, π–π stacking, hydrogen bond, electrostatic interaction, and so on) and criteria . Using this encoded binary string, the binding features, given a ligand-bound complex, can be captured in great detail and easily manipulated. With this strategy we can easily do virtual screening, post-processing of dock poses and generate new scoring functions. So, using this technique we can easily assess some steps that we used in the whole procedure and also validate if our new generated ligands create the same types of interaction with the binding site compared with the ligand.
+
+For the Interaction Fingerprints we use the [Open Drug Discovery Toolkit](https://github.com/oddt/oddt),a  modular and comprehensive toolkit for use in cheminformatics, molecular modeling etc. ODDT is written in `python`, and make extensive use of Numpy/Scipy.
+
+
+# Disclaimer
+
+We tried to do all the process using the noteable environment, by using the command `pip install oddt`. We then followed all the commands from the oddt [website](https://oddt.readthedocs.io/en/latest/#interaction-fingerprints). We faced a problem with scoring definition and some functions were not defined. We imported all the proper libraries. Then we create a local environment for oddt, following all the necessary steps from [github](https://github.com/oddt/oddt). We faced again problems with the toolkits, and we decide that in the Noteable environment we have to define the functions. We were able finally to encode all the molecules into a binary string, according to the interactions that they made in the binding site although we are still facing difficullties to look for similar molecules according to their interaction fingerprints. This step is still in process. 
