@@ -18,7 +18,9 @@ After seperation of the inactive compounds our training data size was 7812 compo
 <img width="600" img align="center" alt="image" src="https://github.com/pantmarag/PEP_project/blob/5988792d606854ebd532508fe523af01afad9d16/Machine%20Learning%20Model/roc_auc.png" >
 </div>
 
-MAE: 0.56 	and std : 0.01
+For that model we computed a MAE of 0.56 	and a std  of 0.01.
+Lastly our compounds (PEP1,2) adhere the Lipinski Rule of 5.
+
 # Disclaimer
 
-Due to lack of time, only the Random forest classifier was used to assess the 
+Due to lack of time, only the Random forest classifier was used to assess the pIC50 values for the compounds of interest and our own generated ligands. These predictions actes as indicators of valid ocmpounds to continue the Docking process with.
