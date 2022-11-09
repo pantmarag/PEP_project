@@ -6,7 +6,7 @@ For this part of the project we used the [ChEMBL bioactivity output](https://www
 * Support Vector Machine (SVM) 
 * Artificial Neural Network (ANN)
 
-The goal is to test the ability of the model to predict data which it has never seen  before in order to flag problems known as over fitting and to assess the generalization ability of the model. In particular, the model was fited on a random train-test split of the data and the algorothm returned measures such as accuracy, sensitivity, specificity and AUC evaluated on the test set. Lastluy, a function named `crossvalidation` executes a cross validation procedure and prints the statistics of the results over the folds. Typically, an MAE/RMSE below 0.6, approximately, is considered quite decent.
+The goal is to test the ability of the model to predict data which it has never seen  before in order to flag problems known as over fitting and to assess the generalization ability of the model. In particular, the model was fited on a random train-test split of the data and the algorothm returned measures such as accuracy, sensitivity, specificity and AUC evaluated on the test set. Lastly, a function named `crossvalidation` executes a cross validation procedure and prints the statistics of the results over the folds. Typically, an MAE/RMSE below 0.6, approximately, is considered quite decent.
 
 In the last part of the code we tested the adherence of our generated compounds and the ChEMBL compound that was used as a scuffold prototype to the Lipinski Rule of 5.
 
