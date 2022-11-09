@@ -12,13 +12,13 @@ In the last part of the code we tested the adherence of our generated compounds 
 
 # Discussion
 
-After seperation of the inactive compounds our training data size was 7812, while the test data included 1954 compounds.
-lso plot the ROC curves
+After seperation of the inactive compounds our training data size was 7812 compounds, while the test data included 1954 compounds. The plot of the ROC curves for our models reveals a good True Positive prediction curve. Based on the Area Under the Curve(AUC) the Random Forest model had the best predictive potential.
 
-<img width="394" alt="image" src="https://user-images.githubusercontent.com/117588718/200306380-7b14d10a-d0aa-4e4f-b599-16398e79c73c.png"> 
+<div align="center">
+<img width="600" img align="center" alt="image" src="https://github.com/pantmarag/PEP_project/blob/5988792d606854ebd532508fe523af01afad9d16/Machine%20Learning%20Model/roc_auc.png" >
+</div>
 
-
-
+MAE: 0.56 	and std : 0.01
 # Disclaimer
 
 Due to lack of time, only the Random forest classifier was used to assess the 
