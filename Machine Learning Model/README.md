@@ -23,4 +23,4 @@ Lastly our compounds (PEP1,2) adhere the Lipinski Rule of 5.
 
 # Disclaimer
 
-Due to lack of time, only the Random forest classifier was used to assess the pIC50 values for the compounds of interest and our own generated ligands. These predictions actes as indicators of valid ocmpounds to continue the Docking process with.
+Due to lack of time, only the Random forest classifier was used to assess the pIC50 values for the compounds of interest and our own generated ligands. These predictions act as indicators of valid compounds to continue the Docking process with.
