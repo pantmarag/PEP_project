@@ -15,6 +15,7 @@ In the last part of the code we tested the adherence of our generated compounds 
 After seperation of the inactive compounds our training data size was 7812, while the test data included 1954 compounds.
 lso plot the ROC curves
 
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/117588718/200306380-7b14d10a-d0aa-4e4f-b599-16398e79c73c.png"> 
 
 
 
