@@ -19,7 +19,7 @@ After seperation of the inactive compounds our training data size was 7812 compo
 </div>
 
 For that model we computed a MAE of 0.56 	and a std  of 0.01.
-Lastly our compounds (PEP1,2) adhere the Lipinski Rule of 5.
+Lastly, our compounds (PEP1,2) adhere the Lipinski Rule of 5.
 
 # Disclaimer
 
